@@ -1,0 +1,1 @@
+The data from this sample is ${sample.data}
